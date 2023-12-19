@@ -16,7 +16,7 @@ export const Icons = {
       <g
         id='Brand/Web'
         stroke='none'
-        stroke-width='1'
+        strokeWidth='1'
         fill='none'
         fill-rule='evenodd'
         {...props}
